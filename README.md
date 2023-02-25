@@ -1,6 +1,6 @@
 # **WonderList**
 
-WonderList is an app that allows users to is an app that allows users to create lists for various things.
+WonderList is an app that allows users to create lists for various things.
 
 ## Table of Contents
 
@@ -21,4 +21,4 @@ Whether it's a to-do list or a shopping list. Users are able to add, edit, delet
 
 ## View the App
 
--On [Netlify]()
+-On [Netlify](https://wonder-list.netlify.app/)
